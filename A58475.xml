@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The religious assemblies of the people called Quakers vindicated I. From the charge of their being in disturbance of the publick peace. II. From the charge of being seditious conventicles, mentioned in the Act of 22 Car. 2. III. From the charge of being under colour or pretence of an exercise of religious worship, in other manner than is allowed by the liturgy or practice of the Church of England. Whereunto is added A more general declaration in the case.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58475</idno><idno type="EEBO-CITATION">99831255</idno>
+  <idno type="VID">35718</idno>
+  <idno type="EEBO-PROQUEST">2240924526</idno>
+  
+            <idno type="STC">Wing R906</idno>
+            <idno type="STC">ESTC R219808</idno>
+            <idno type="PROQUEST">99831255</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831255e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35718)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The religious assemblies of the people called Quakers vindicated I. From the charge of their being in disturbance of the publick peace. II. From the charge of being seditious conventicles, mentioned in the Act of 22 Car. 2. III. From the charge of being under colour or pretence of an exercise of religious worship, in other manner than is allowed by the liturgy or practice of the Church of England. Whereunto is added A more general declaration in the case.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by Andrew Sowle, at the Crooked-Billet, in Hollyway-Lane in Shoreditch,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682/3 [i.e. 1683]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Another issue has imprint date "1683".</note>
+                  <note>"A more general declaration" begins on p. 5.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35718:1"/>
+            <head>THE <hi>Religious Assemblies</hi> Of the People called QUAKERS VINDICATED:
+<list>
+                  <item>I. From the Charge of their being <hi>in Disturbance of the Publick Peace.</hi>
+                  </item>
+                  <item>II. From the Charge of being <hi>Seditious Conventicles,</hi> mentioned in the Act of 22 <hi>Car.</hi> 2.</item>
+                  <item>III. From the Charge of being <hi>under Colour or Pretence of an Exercise of Religious Worship, in other manner than is allow<g ref="char:EOLhyphen"/>ed by the Liturgy or Practice of the Church of</hi> England.</item>
+               </list> Whereunto is Added A more General Declaration In the CASE. <hi>The Second Edition.</hi>
+            </head>
+            <p n="1">I. TO the first Objection, we may ask our Adversaries, What matter of Record<note n="*" place="margin">5 R. 2. c. 7 15 R. 2. c. 2</note> they can justly make against us, the said People, of due Conviction? either from any notorious Evidence of Fact, or Testimony of Credible Persons, or Confession of our own, as the Law provides, of any <hi>for<g ref="char:EOLhyphen"/>midable Posture</hi> that we meet in, as that of <hi>Vi &amp; Armis,</hi> or any <hi>menacing Words</hi> or <hi>Threats</hi> made by us, or of any <hi>Contrivance of Insurrection,</hi> which
+<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35718:2"/> in the Eye of Law and Reason might be deemed or construed to be <hi>in Terrorum Populi,</hi> or <hi>in disturbance of the publick Peace,</hi> or of the nature of a <hi>Riot?</hi> If such, should not the matter and Circumstances of the Fact be specified upon such Record as the Law enjoyns? But we utterly deny that we ever met in any such formidable Posture, as is of the nature or tendence of what the Law deems <hi>in Terrorum Populi.</hi> We meet peaceably to wait upon, and really to worship and serve the Almighty God, as our bounden duty, according to his Grace, Light and Under<g ref="char:EOLhyphen"/>standing, which he hath given unto us by his Spirit.</p>
+            <p>
+               <note place="margin">H. 5. c. 8.</note>In the 2d year of <hi>Henry</hi> the 5th, c. 8. <q rend="margQuotes">It is provided, that if any <hi>Riot, Assembly or Rout of People,</hi> against the Law, be made in any part of the Realm, then the Justices of the Peace, three, or two of them at the least, and the Sheriff or under-Sheriff of the Coun<g ref="char:EOLhyphen"/>ty where such <hi>Riot, Assembly</hi> or <hi>Rout</hi> shall be made hereafter, should come with the Powers of the said County (if need were) to arrest them, and them should Arrest; and the same Justices, Sheriff or under-Sheriff to have Power to Record <hi>that which they have found so done in their Presence against the Law.</hi> And that by Record of the same Justices, Sheriff or under-Sheriff, such Trespassors or Offendors should be convicted in manner and form as is contain'd in the Statute of <hi>Forcible Entry,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> R 2. 7. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> R. 2. 2.</note>
+                  <hi>&amp;c.</hi> And in the same Statute it is provided, That like Ordinances and Pains should hold place and take effect in Cities, Burroughs, and other places and Towns infranchiz'd, which have Justices of the Peace within them.</q>
+            </p>
+            <p>Now let our Adversaries and Persecutors answer us; Where could any of them ever justly make any such legal and due Conviction upon Record against us, for any such <hi>Riotous Meeting</hi> or <hi>Ʋnlawful Assembly</hi> on our parts, as hath been really in it self of such a nature and tendence as aforesaid, <hi>in Disturbance of the publick Peace?</hi> We positively deny that our Assemblies are of any such nature, however mis-represented by our Adversaries.</p>
+            <p n="2">II. <hi>Objection;</hi> If it be alledged, <hi>That our Meetings or Assemblies are contrary to Law, and therefore in disturbance of the publick Peace.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> We question what Law or Statute they are contrary unto?</p>
+            <p>
+               <hi>Obj.</hi> If it be answered, <hi>They are contrary to an Act which is both Man<g ref="char:EOLhyphen"/>datory and Panal, made in the</hi> 22th <hi>year of King</hi> Charles <hi>the</hi> 2d, <hi>entituled,</hi> An Act to prevent and suppress seditious Conventicles.</p>
+            <p>
+               <hi>We Answer;</hi> 1st, That our Assembles are no such as <hi>Seditious Conven<g ref="char:EOLhyphen"/>ticles, i. e.</hi> for <hi>Sedition, Strife</hi> or <hi>Rebellion against the Government.</hi> 2dly,
+<pb n="3" facs="tcp:35718:2"/>
+'Tis a meer begging the Question, to term our Assemblies <hi>Seditious;</hi> no such thing has ever been proved against them as <hi>Sedition,</hi> that is,<note n="†" place="margin">Sedition explained.</note>
+               <hi>A stirring up to Rebellion or Discord, A raising a Faction</hi> or <hi>Mutiny,</hi> as <hi>Phillips</hi> in his <hi>New World of Words</hi> explains it; But our Assemblies are for no such design or end, nor could ever any overt Act of that kind or tendence be proved or justly charged against us, in relation to our Meetings, or otherwise: Therefore they are no <hi>Seditious Conventicles</hi> or <hi>Assemblies.</hi> 3dly, Our Assemblies are made up of no such Persons or People as have committed any such dangerous Practices against the Government, as mentioned in the Preamble of the said Act, 22 <hi>Car.</hi> 2. (though rude Informers and Disturbers have come Riotously, and with Violence against us into our Meetings.) Neither are we any such <hi>seditious Sectaries, or disloyal Persons, who under pretence of tender Consciences, have or may at their Meetings contrive Insurrections;</hi> as also the Preamble of the said Act is specified. We use no <hi>Pretence</hi> of tender Conscience for any such wicked end or design. The All-seeing and Heart-searching God knows our innocence and clearness herein; as also the Nation's long Experience can witness for us. And if <hi>Titles</hi> and <hi>Preambles</hi> of <hi>Laws</hi> be the <hi>Keys of Laws,</hi> and do evince or shew the Na<g ref="char:EOLhyphen"/>ture and respective Intentions thereof, then this said Act against <hi>Seditious Conventicles</hi> (where <hi>under pretence of tender Consciences, Insurrections have been or may be contrived</hi>) doth not extend to us. We pretend nothing but what we really intend, viz. <hi>The spiritual Worship and real Service of Almighty God,</hi> who searches our Hearts, and whom we sincerely reve<g ref="char:EOLhyphen"/>rence and fear.</p>
+            <p n="3">III. <hi>Obj.</hi> But if it be objected, <hi>That the matter of Fact incurring the Fines and Penalties of the said Act against Conventicles, is our Meeting under Colour or Pretence of an Exercise of Religious Worship, in other manner than according to the Liturgy and Practice of the Church of</hi> England, <hi>or in other manner than is allowed thereby.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> We answer; 1st, That the words <hi>[Colour or Pretence]</hi> have relation to the Preamble, as, <hi>Who under pretence of tender Conscience have or may at their Meetings contrive Insurrections, as late Experience hath shown.</hi> But such pretence or colour of Religious Exercise, for any such Contri<g ref="char:EOLhyphen"/>vance, were abominable Deceit and Hypocrisie, and never chargeable upon us or our Assemblies: We can challenge the whole World to de<g ref="char:EOLhyphen"/>tect us herein. 2dly, We are not conscious to our selves of any such matter of Fact committed in our Assemblies, and on our part, which the Liturgy or Practice of the Church of <hi>England</hi> allows not. If we be herein charg'd, let's know what it is that we have done in our Assem<g ref="char:EOLhyphen"/>blies,
+<pb n="4" facs="tcp:35718:3"/> which the Liturgy and Practice of the Church of <hi>England</hi> allows not of, seeing the Liturgy allows of the holy Scriptures, which we are sure allow of [and enjoyn] Christians <hi>Assembling together to wait upon and Worship God in Spirit and Truth,</hi> and of the manner thereof, as to the places, whether <hi>in Houses,</hi> or <hi>abroad in Fields</hi> or <hi>Mountains,</hi> which is our case, both as to the matter and manner of our Assemblies.</p>
+            <p>
+               <hi>Obj.</hi> If it be still objected, <hi>That our Meetings are under colour and pre<g ref="char:EOLhyphen"/>tence of an Exercise of Religious Worship, in other manner than according to the Liturgy and Practice of the Church of England.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> We answer; 1st, What that exercise of Religious worship is, that is in other manner than according to the Liturgy, should be ex<g ref="char:EOLhyphen"/>plained unto us, and that according to Law, seeing this late Act against Conventicles does NOT explain <hi>what Manner 'tis.</hi>
+            </p>
+            <p>But 2dly, we find in a Statute made in the first year of Q. <hi>Elizabeth,</hi> chap. 2. that <hi>that other Manner</hi> is thus explained, <hi>viz.</hi>
+               <note n="†" place="margin">What other Manner the Liturgy al<g ref="char:EOLhyphen"/>lows not</note>
+               <q rend="margQuotes">That if any Person or Persons whatsoever shall by open Fact, Deed, or shall by open Threatnings compel or cause, or otherwise procure or maintain any Parson, Vicar or other Minister in any Cathedral or Parish Church, Chappel, or in any other place, to sing or say any common and open Prayer, or to minister any Sacrament otherwise, or in <hi>any other manner</hi> and <hi>form</hi> than is mentioned in the said <hi>BOOK, &amp;c.</hi>
+               </q> This does not at all reach our case, we are not found guilty hereof, and therefore are not con<g ref="char:EOLhyphen"/>demnable by the Law in this case; this concerned the Clergy, not us; And we neither threaten, compel, cause, or any wise procure or maintain any Parson, Vicar, or any else to sing or say any common or open Pray<g ref="char:EOLhyphen"/>er, or to minister any Sacrament in any Cathedral or Parish Church, &amp;c. This we are so far from, that we compel No Body to any form of sing<g ref="char:EOLhyphen"/>ing or paying in God's Worship, but perswade men to serve and wor<g ref="char:EOLhyphen"/>ship God as he directs, and for that end desire all may come to his divine Grace and good Spirit in their hearts, to guide them in his holy Wor<g ref="char:EOLhyphen"/>ship, both as to matter and manner of praying and praising his Name, that they may serve and worship him, <hi>not in the oldness of the Letter, but in the newness of the Spirit, for such he is</hi> (even in our days) <hi>seeking to wor<g ref="char:EOLhyphen"/>ship him, as must worship him in Spirit and in Truth;</hi> And such both pray with the Spirit, and sing with the Spirit, and with Understanding, ac<g ref="char:EOLhyphen"/>cording to the antient Apostolical Testimony, and Practice of the primitive spiritual Christians.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:35718:3"/>
+            <head>
+               <hi>A more General Declaration,</hi> Shewing the said Peoples clearness from all Sedition, contriving Insurrections and dangerous Practices, under any Colour or Pretence whatsoever.</head>
+            <p>
+               <hi>WHereas there is lately published an Act, entituled, <hi>An Act to prevent and suppress seditious Conventicles;</hi> The words in the Preamble of which Act are as followeth;</hi> For providing further and more speedy Remedies against the growing and dangerous Practices of seditious Sectaries, and other disloyal Persons; who under pretence of ten<g ref="char:EOLhyphen"/>der Consciences, have or may at their Meetings contrive Insurrections (as late Experience hath shewn.)</p>
+            <p>THe People of God in scorn called <hi>Quakers,</hi> are all free and clear from these Actions above, or before mentioned, and it doth not concern them; for <hi>Quakers</hi> Meetings are not seditious Conventicles, and therefore ought not to be supprest; neither have been, or are our Practices dangerous, but have alwayes been found peaceable and clear of such things; and though we have been accused as Plotters, &amp;c. and though we have been numbred amongst seditious Persons, yet nothing of that kind could ever be justly charged or proved against us. And as for the word, Disloyal to the King. We have alwayes paid our Taxes and Assesments, and other Dues and Duties, more than any People according to our abilities; and so the thing that belongs to <hi>Caesar</hi> we give to <hi>Caesar,</hi> and that which belongs to God we give to God, his Worship in Spirit and Truth, which is his Due. And we have kept our Meetings on our parts peaceably, who have been ga<g ref="char:EOLhyphen"/>thered together by the Lord, in the Name of Jesus. And we do not meet together under a colour or pretence of tender Consciences, to plot and contrive Insurrections against the King, but meet together in the Power and Spirit of the Lord, without any such pretence, but in reallity to worship and glorifie God in our Bodies, Souls and Spi<g ref="char:EOLhyphen"/>rits, which are his; and for so doing, it hath cost many of our Friends
+<pb n="6" facs="tcp:35718:4"/> and Brethren their Lives, by Imprisonment, Exile, and otherwise; neither dare we forsake the assemblings of our selves together, as the the manner of some was, &amp;c. And our Meetings have been peaceable all along on our account, though rude People have come and railed against us, and abused us. And our Principle is, and ever was against such practices as Sedition, or contriving Insurrections, but it leads us to the peaceable Truth, and to seek the peace of all men, and to Christ Jesus who is the Way to God, who is the Author of Peace. And so we are by Christ Jesus taught to deny all Sedition, Conspiracy and In<g ref="char:EOLhyphen"/>surrection; and he doth teach us to deny all such things, who was be<g ref="char:EOLhyphen"/>fore all such things, and seditious Sects were, and will be when they are all gone; for he is the same to day, yesterday and forever.</p>
+            <p>And if any should pretend tenderness of Conscience, and religious Exercise, and under that colour intend a quite contrary thing. as to contrive Insurrections, &amp;c. this is gross Hypocrisie and Dissim lation, which our souls ever did, and do abhor, and deny; and such a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e un<g ref="char:EOLhyphen"/>lawful Meetings. And were not the Magistrates, as Mayors, Justices, and other Officers, &amp;c. enjoyned by their Oathes before, to look after the preservation of the Peace, against all such seditious Meetings, as much as this Act doth require?</p>
+            <p>And if any Magistrate should take hold upon any that are innocent of these actions, mentioned in the title and preamble of the Act, then whether or no (the innocent Person being defamed, besides his suffer<g ref="char:EOLhyphen"/>ing and spoiling of his Goods) the Lord will not take notice to defend the Innocent, and judge for such things?</p>
+            <p>Now if four besides the Family do meet that are seditious Spirits, may not many such little Meetings do more hurt then if there were two or three hundred together? for then they may speak out their minds to one another, which they could not before hundreds of mixt People? Now if <hi>Caesar</hi> must have his due, must we not meet together to give God his due?</p>
+            <p>And if such an Act should have been made by the <hi>Jews</hi> in the dayes of Christ, would it not have taken hold of Christ, and his Apostles? for had not he twelve with him, and seventy, and sometimes hundreds, and thousands? And did not Christ and his Apostles keep Meetings in Desarts, Mountains, by Sea-side, on Ship-board, in private Houses, besides Temple and Synagoges? And was there not many Sects a<g ref="char:EOLhyphen"/>mongst the <hi>Jews,</hi> yet all profest God? And are there not several Sects in <hi>Turkey?</hi> Do not <hi>Jews,</hi> and <hi>Turks,</hi> and <hi>Christians,</hi> keep their Mee<g ref="char:EOLhyphen"/>tings on several days distinct? And in the <hi>Mogul</hi>'s Country are there
+<pb n="7" facs="tcp:35718:4"/> not several Religions? And in <hi>Germany,</hi> and the low Countries, and in many parts of <hi>Christendom,</hi> and other parts of the World, are there not several Religions? and yet they have their peaceable Liberty. And did not God let <hi>Adam</hi> have liberty in the Earth? And <hi>Abraham</hi> did not only let <hi>Ishmael</hi> have liberty, but relief in the Wilderness? So why should not they have liberty that be Innocent, to wait upon and worship God, who are clear from Sedition, and contriving Insurrecti<g ref="char:EOLhyphen"/>on under pretence of tender Consciences, or any pretence whatso<g ref="char:EOLhyphen"/>ever? Concerning which, we that are called <hi>Quakers,</hi> can say in the pre<g ref="char:EOLhyphen"/>sence of God, We are free and clear from, and testifie to all men, though we have been so accused, and have been tryed by Imprisonment to death, and Banishment, and spoiling of Goods, yet were alwayes in<g ref="char:EOLhyphen"/>nocent, and so we are the same to this day, who do exercise a good Conscience towards God, and towards all men.</p>
+            <p>And are any to be credibly informed against or supprest, but such as are known to be seditious, and are of that spirit, that under a pre<g ref="char:EOLhyphen"/>tence of tender Conscience plot and contrive Insurrections? If so, then whether innocent and peaceable People, that meet really to wor<g ref="char:EOLhyphen"/>ship God in the Spirit, and in the peaceable Truth (which all plotting is out of) these are concerned according to the title and reason of this Act?</p>
+            <p>And whether the Liturgy doth not allow of People to meet together, to worship God in Spirit and Truth, without limitation of time, place or number? For ought not men at all times, and in all places, to per<g ref="char:EOLhyphen"/>form their bounden duty to God, and to pray to him, and to give thanks for his Benefits, which they daily receive? And doth not the Lord say, <hi>In every place Offerings shall be offered to my Name? Mal.</hi> 1. And doth not the Apostle say, <hi>I will that men Pray every where, lifting up holy Hands without wrath and doubting?</hi> And, <hi>As every man hath received the Gift, even so minister the same one to another, as good Stewards of the mani<g ref="char:EOLhyphen"/>fold Graces of God,</hi> 1 Pet. 4.10. And did not Christ, to incourage his little Flock, say, <hi>Wheresoever two or three are gathered together in my Name, I am in the midst of them?</hi> Not limiting them to that number, and no more, as you may see how Christianity after spread, as the E<g ref="char:EOLhyphen"/>pistles to the Churches declare. So this is not to hinder them that be peaceable in Christ Jesus, from meeting either in a Barn, House, Field, Back-side, or any other place; for they met thousands with him in the Wilderness. And doth not the Prophet say, <hi>The holy One must not be limited?</hi> And doth not the Liturgy allow of the same Worship and Meetings as the holy Scriptures allow of?</p>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:35718:5"/>
+            <head>The terms of the Title and Preamble explained.</head>
+            <p>
+               <hi>SEditious,</hi> is Contentious, Factious, loving Discord.</p>
+            <p>
+               <hi>Conventicle,</hi> is, A little private Assembly, commonly for ill (com<g ref="char:EOLhyphen"/>monly so taken, the Doors being shut) [defined by the Law] such, wherein many do impart to others their meaning, to kill a man, &amp;c. as also where Conspiracies, Confederacies are; See <hi>Lamb.</hi> 173, 177.</p>
+            <p>And such are unlawful Assemblies, or <hi>Conventicles,</hi> as consist of a number of People, gathered together disorderly, for the cause of some one, or of a few Persons that are Riots, against which these Statutes were provided, 13 <hi>H.</hi> 5. <hi>cap.</hi> 8, 19. and 19 <hi>H.</hi> 7. <hi>cap.</hi> 13. and before them were the Statute of <hi>Nort.</hi> 2 <hi>E.</hi> 3. <hi>cap.</hi> 3. laid upon them, 2 <hi>R.</hi> 2. <hi>cap.</hi> 6.</p>
+            <p>
+               <hi>Seditious Conventicles,</hi> are little private factious Assemblies, where Discord, Rebellion or Insurrection is contrived, plotted, designed or intended.</p>
+            <p>
+               <hi>Disloyal Persons,</hi> are such as are Treacherous, Trayterous, False, Deceitful, breakers of Promise, and the like.</p>
+            <p>
+               <hi>Seditious Sectaries,</hi> are taken for such people as are Factions and Re<g ref="char:EOLhyphen"/>bellious, being of a different Profession from the ancient Truth; or such as therein are divided into Sides and Parties, following such as are Leaders in Faction, Rebellion and Schism.</p>
+            <q>
+               <p>From all these evil things, the People of God, called <hi>Quakers,</hi> are clear, and freed by the Power of God, which was before all such things were; who are Professors of Christ Jesus, the ancient Truth, before Sects were.</p>
+               <p>So our desires are in tenderness to all Magistrates for their good, that they may put a difference between the Precious and the Vile, and such as serve God, and such as serve him not; and so that they all in the pure Wisdom of God from above, may mind and take notice of these things, from them that desire the King's, and their everlasting good and prosperity in the Truth, which the Devil is out of.</p>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed and Sold by</hi> Andrew Sowle, <hi>at the Crooked-Billet, in Hollyway-Lane in</hi> Shoreditch, 1682/3.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
